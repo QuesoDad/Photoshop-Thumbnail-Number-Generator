@@ -13,7 +13,7 @@ Right justify number text if on the right
 Left justify number text on the left
 Center justify number test everywhere else
 
-This was originally an incomplete script I found that required hand coding. I changed the script to use dialog boxes instead of hand coding.
+This script originally required updating and resaving the script. I changed the script to use popup dialog boxes instead requring extra work.
 
 Works on Windows 10, unsure if it works on Mac.
 
